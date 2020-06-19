@@ -15,4 +15,7 @@ public class CountDownLatchTest {
         latch.await();
         System.out.println("end");
     }
+
+    public static class Asyn {
+    }
 }
