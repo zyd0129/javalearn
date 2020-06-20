@@ -1,4 +1,4 @@
-package factoryPattern;
+package pattern.factoryPattern;
 
 public class Porsche implements Car {
     @Override

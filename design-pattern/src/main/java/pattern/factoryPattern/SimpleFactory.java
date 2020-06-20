@@ -1,4 +1,4 @@
-package factoryPattern;
+package pattern.factoryPattern;
 
 public class SimpleFactory {
     public static Car createCar(String type) {
