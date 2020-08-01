@@ -12,6 +12,7 @@
       <module>juc</module>
       <module>design-pattern</module>
       <module>data-structure</module>
+      <module>socket</module>
   </modules>
   <packaging>pom</packaging>
 
